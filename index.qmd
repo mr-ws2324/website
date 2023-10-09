@@ -12,3 +12,8 @@ This overview will be updated as the semester progresses.
 :::
 
 
+|	Week	|	Nr.	|	Date	|	Topic	|	Literature	|		Resources		|	Links	|	Code	|
+|	---	|	---	|	---	|	---	|	---	|		---		|	---	|	---	|
+|	1	|	1	|	10.10.	|	Business Model Canvas	|	[📚](https://www.strategyzer.com/library/the-business-model-canvas)	|	<!--	[📑](https://docs.google.com/presentation/d/1QVuajnvWqzBT9qnm2moNr5pVvH6G8LXmez8LOsA6lYc/export/pdf)	-->	|		|		|
+|	1	|	2	|	10.10.	|	Data driven	|		|	<!--	[📑](https://docs.google.com/presentation/d/1AfzqhjEAfJ5X4Q8YC9GK14jEBfdDXEIRmXonriwYHNY/export/pdf)	-->	|		|		|
+|	1	|	3	|	10.10.	|	Market analysis lab	|		|	<!--	[💻](https://kirenz.github.io/lab-market-analysis)	-->	|		|		|
