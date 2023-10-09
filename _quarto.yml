@@ -6,8 +6,8 @@ execute:
 
 website:
   page-navigation: true
-  title: "Title"
-  description: "Homepage for xyz at HdM Stuttgart, WS 23/24."
+  title: "Market Research"
+  description: "Homepage for Market Research at HdM Stuttgart, WS 23/24."
   site-url: "https://myplaceholder.github.io/website/"
   repo-url: https://github.com/myplaceholder/website
   repo-actions: [edit, issue]
@@ -27,7 +27,7 @@ website:
     right:
       - icon: person-circle
       - text: "Moodle"
-        href: https://moodle.hdm-stuttgart.de/login/index.php
+        href: https://moodle.hdm-stuttgart.de/course/view.php?id=2464
         aria-label: Moodle    
 #    background: "#325b74"    
 
@@ -38,12 +38,9 @@ website:
     pinned: true
     align: center
     tools:
-      - icon: github
-        href: https://github.com/myplaceholder
-        text: "GitHub organization"
       - icon: person-fill
         text: "Moodle"
-        href: https://moodle.hdm-stuttgart.de/login/index.php
+        href: https://moodle.hdm-stuttgart.de/course/view.php?id=2464
 
     style: docked
     search: true
