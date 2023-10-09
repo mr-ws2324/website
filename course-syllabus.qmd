@@ -11,7 +11,7 @@ title: "Syllabus"
 
 |           | Day       | Time              | Location |
 |-----------|-----------|-------------------|----------|
-| Lecture   | Thursday    | 14:15  - 15:45  |  108  |
+| Lecture   | Tuesday    | 14:15  - 15:45  |  108  |
 
 
 
@@ -19,9 +19,8 @@ title: "Syllabus"
 
 Gain experience in data collection and data analysis while working on problems and case studies inspired by and based on real-world questions. 
 
-By the end of the semester, you will be able to...
+By the end of the semester, you will be able to obtain, explore, visualize, and analyze data using tools like Excel, Tableau and Microsoft PowerBI as well as SQL and Python.
 
--   obtain, explore, visualize, and analyze data.
 
 ## Where to get help
 
