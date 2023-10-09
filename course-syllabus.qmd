@@ -2,10 +2,6 @@
 title: "Syllabus"
 ---
 
-::: {.content-visible when-format="html"}
-[**Click here**](syllabus.pdf) **to download a PDF copy of the syllabus.**
-:::
-
 
 ## Course info
 
@@ -20,7 +16,6 @@ title: "Syllabus"
 Gain experience in data collection and data analysis while working on problems and case studies inspired by and based on real-world questions. 
 
 By the end of the semester, you will be able to obtain, explore, visualize, and analyze data using tools like Excel, Tableau and Microsoft PowerBI as well as SQL and Python.
-
 
 ## Where to get help
 
