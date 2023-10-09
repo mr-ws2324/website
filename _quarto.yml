@@ -51,8 +51,6 @@ website:
     contents:
       - section: "Course information"
         contents:
-          - href: course-overview.qmd
-            text: Overview
           - href: course-syllabus.qmd
             text: Syllabus
           - href: course-support.qmd
@@ -64,15 +62,6 @@ website:
         contents:
           - href: programming-requirements.qmd
             text: Requirements
-          - href: programming-troubleshooting.qmd
-            text: Troubleshooting
-      - section: "Project"
-        contents:
-          - href: project-description.qmd
-            text: Description
-          - href: project-tips-resources.qmd
-            text: Tips + resources
-
 
 format:
   html:
