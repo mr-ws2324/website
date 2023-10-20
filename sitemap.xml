@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://myplaceholder.github.io/website/project-description.html</loc>
-    <lastmod>2023-10-18T08:29:32.002Z</lastmod>
-  </url>
-  <url>
-    <loc>https://myplaceholder.github.io/website/code/notebook.html</loc>
-    <lastmod>2023-10-18T08:29:30.082Z</lastmod>
+    <loc>https://myplaceholder.github.io/website/programming-requirements.html</loc>
+    <lastmod>2023-10-20T14:42:43.221Z</lastmod>
   </url>
   <url>
     <loc>https://myplaceholder.github.io/website/programming-overview.html</loc>
-    <lastmod>2023-10-18T08:29:29.318Z</lastmod>
+    <lastmod>2023-10-20T14:42:42.449Z</lastmod>
   </url>
   <url>
-    <loc>https://myplaceholder.github.io/website/course-syllabus.html</loc>
-    <lastmod>2023-10-18T08:29:28.602Z</lastmod>
-  </url>
-  <url>
-    <loc>https://myplaceholder.github.io/website/programming-requirements.html</loc>
-    <lastmod>2023-10-18T08:29:26.458Z</lastmod>
-  </url>
-  <url>
-    <loc>https://myplaceholder.github.io/website/project-tips-resources.html</loc>
-    <lastmod>2023-10-18T08:29:28.962Z</lastmod>
+    <loc>https://myplaceholder.github.io/website/code/notebook.html</loc>
+    <lastmod>2023-10-20T14:42:41.773Z</lastmod>
   </url>
   <url>
     <loc>https://myplaceholder.github.io/website/course-support.html</loc>
-    <lastmod>2023-10-18T08:29:29.710Z</lastmod>
+    <lastmod>2023-10-20T14:42:41.029Z</lastmod>
+  </url>
+  <url>
+    <loc>https://myplaceholder.github.io/website/project-description.html</loc>
+    <lastmod>2023-10-20T14:42:38.941Z</lastmod>
+  </url>
+  <url>
+    <loc>https://myplaceholder.github.io/website/course-syllabus.html</loc>
+    <lastmod>2023-10-20T14:42:41.417Z</lastmod>
+  </url>
+  <url>
+    <loc>https://myplaceholder.github.io/website/project-tips-resources.html</loc>
+    <lastmod>2023-10-20T14:42:42.109Z</lastmod>
   </url>
   <url>
     <loc>https://myplaceholder.github.io/website/index.html</loc>
-    <lastmod>2023-10-18T08:29:30.498Z</lastmod>
+    <lastmod>2023-10-20T14:42:42.865Z</lastmod>
   </url>
 </urlset>
