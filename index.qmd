@@ -15,8 +15,6 @@ This page contains a weekly overview about the topics, slides and materials for 
 This overview will be updated as the semester progresses.
 :::
 
-
-
 |	Week	|	Nr.	|	Date	|	Topic	|	Literature	|		Resources		|	
 |	---	|	---	|	---	|	---	|	---	|		---		|	
 |		|	1	|		|	**Introduction**	|		|				|	
@@ -38,4 +36,4 @@ This overview will be updated as the semester progresses.
 |	7	|	8	|	21.11.	|	Big Idea worksheet handout	|		|		[📑](https://docs.google.com/presentation/d/1-GZvhdbhLYLB_Bo1arj1rgTqbJ5SUoU21vtgbYEhVqk/export/pdf)		|	
 |	7	|	12	|	21.11.	|	Narrow your audience exercise	|		|		[📑](https://docs.google.com/presentation/d/1Eu21TCIM0Lx6LiybPG-15ikk0gkRaqbCQNtcl3fAfGQ/export/pdf)		|	
 |	7	|	13	|	21.11.	|	Storyboard exercise	|		|		[📑](https://docs.google.com/presentation/d/1WeLzE85YfM-F9-vAIhEbeJHkuHsN3xtovzIokB93BRU/export/pdf)		|	
-|	7	|	14	|	21.11.	|	Excel exercise (Display 2-1)	|		|		[📑](https://docs.google.com/presentation/d/12R3bTZvhj4drvjdQDjgUqk9a0LdAeUSZtELQIkt2ewM/export/pdf)		|	
+|	7	|	14	|	21.11.	|	Excel exercise (Display 2-1)	|	[Data](https://docs.google.com/spreadsheets/d/1DqBYgHGRhbORrw6FOLQPhv8ukm0TgM4C_HzzCXEgckw/edit?usp=sharing)	|		[📑](https://docs.google.com/presentation/d/12R3bTZvhj4drvjdQDjgUqk9a0LdAeUSZtELQIkt2ewM/export/pdf)		|	
