@@ -15,6 +15,7 @@ This page contains a weekly overview about the topics, slides and materials for 
 This overview will be updated as the semester progresses.
 :::
 
+
 |	Week	|	Nr.	|	Date	|	Topic	|	Literature	|		Resources		|	
 |	---	|	---	|	---	|	---	|	---	|		---		|	
 |		|	1	|		|	**Introduction**	|		|				|	
@@ -22,17 +23,18 @@ This overview will be updated as the semester progresses.
 |	1	|	3	|	10.10.	|	Data driven	|		|		[📑](https://docs.google.com/presentation/d/1AfzqhjEAfJ5X4Q8YC9GK14jEBfdDXEIRmXonriwYHNY/export/pdf)		|	
 |		|	4	|		|	**Data Preparation and Analysis**	|		|				|	
 |	1	|	5	|	10.10.	|	Market analysis lab (introduction)	|		|		[💻](https://kirenz.github.io/lab-market-analysis)		|	
-|	2	|	3	|	17.10.	|	Market analysis lab 	|		|		[💻](https://kirenz.github.io/lab-market-analysis)		|	
-|	2	|	4	|	17.10.	|	How to obtain data	|		|		[📑](https://docs.google.com/presentation/d/1zldRDAOqmjoJmY_D4-ZkWfhwaklt-UfAPKH4G5kmFVY/export/pdf)		|	
-|	3	|	6	|	24.10.	|	Pandas introduction lab (1 and 2)	|	[📚](https://pandas.pydata.org/docs/)	|		[💻](https://kirenz.github.io/lab-pandas-intro)		|	
-|	4	|	7	|	31.10.	|	Pandas introduction lab (3 to 5)	|	[📚](https://pandas.pydata.org/docs/)	|		[💻](https://kirenz.github.io/lab-pandas-intro)		|	
-|	5	|	8	|	07.11.	|	Pandas introduction lab (6 to 7)	|	[📚](https://pandas.pydata.org/docs/)	|		[💻](https://kirenz.github.io/lab-pandas-intro)		|	
-|	5	|	5	|	07.11.	|	Lab Survey (Data prep)	|		|		[💻](https://kirenz.github.io/lab-survey)		|	
-|	6	|	6	|	14.11.	|	Lab Survey (Analysis)	|		|		[💻](https://kirenz.github.io/lab-survey)		|	
-|		|	9	|		|	**Data Storytelling**	|		|				|	
-|	7	|	10	|	21.11.	|	The importance of context	|		|		[📑](https://docs.google.com/presentation/d/1XXsxfPoo2kCCnR8FZ6Bs4CGpfx81_vck-VY2C7meEOM/export/pdf)		|	
-|	7	|	11	|	21.11.	|	Context: Back to school sale case study	|		|		[📑](https://docs.google.com/presentation/d/1_jGHyu0aKsQk7jxOmHgscreCrfcqrp9WbQdtWyg087o/export/pdf)		|	
-|	7	|	7	|	21.11.	|	Big Idea worksheet handout	|		|		[📝](https://docs.google.com/document/d/1-GZvhdbhLYLB_Bo1arj1rgTqbJ5SUoU21vtgbYEhVqk/edit?usp=sharing)		|	
-|	7	|	8	|	21.11.	|	Narrow your audience exercise	|		|		[📝](https://docs.google.com/document/d/1Eu21TCIM0Lx6LiybPG-15ikk0gkRaqbCQNtcl3fAfGQ/edit?usp=sharing)		|	
-|	7	|	12	|	21.11.	|	Storyboard exercise	|		|		[📝](https://docs.google.com/document/d/1WeLzE85YfM-F9-vAIhEbeJHkuHsN3xtovzIokB93BRU/edit?usp=sharing)		|	
-|	7	|	13	|	21.11.	|	Excel exercise (Display 2-1)	|	[Data](https://docs.google.com/spreadsheets/d/1DqBYgHGRhbORrw6FOLQPhv8ukm0TgM4C_HzzCXEgckw/edit?usp=sharing)	|		[📊](https://docs.google.com/presentation/d/12R3bTZvhj4drvjdQDjgUqk9a0LdAeUSZtELQIkt2ewM/export/pdf)		|	
+|	2	|	6	|	17.10.	|	Market analysis lab 	|		|		[💻](https://kirenz.github.io/lab-market-analysis)		|	
+|	2	|	7	|	17.10.	|	How to obtain data	|		|		[📑](https://docs.google.com/presentation/d/1zldRDAOqmjoJmY_D4-ZkWfhwaklt-UfAPKH4G5kmFVY/export/pdf)		|	
+|	3	|	8	|	24.10.	|	Pandas introduction lab (1 and 2)	|	[📚](https://pandas.pydata.org/docs/)	|		[💻](https://kirenz.github.io/lab-pandas-intro)		|	
+|	4	|	9	|	31.10.	|	Pandas introduction lab (3 to 5)	|	[📚](https://pandas.pydata.org/docs/)	|		[💻](https://kirenz.github.io/lab-pandas-intro)		|	
+|	5	|	10	|	07.11.	|	Pandas introduction lab (6 to 7)	|	[📚](https://pandas.pydata.org/docs/)	|		[💻](https://kirenz.github.io/lab-pandas-intro)		|	
+|	5	|	11	|	07.11.	|	Lab Survey (Data prep)	|		|		[💻](https://kirenz.github.io/lab-survey)		|	
+|	6	|	12	|	14.11.	|	Lab Survey (Analysis)	|		|		[💻](https://kirenz.github.io/lab-survey)		|	
+|		|	13	|		|	**Data Storytelling**	|		|				|	
+|	7	|	14	|	21.11.	|	The importance of context	|		|		[📑](https://docs.google.com/presentation/d/1XXsxfPoo2kCCnR8FZ6Bs4CGpfx81_vck-VY2C7meEOM/export/pdf)		|	
+|	7	|	15	|	21.11.	|	Context: Back to school sale case study	|		|		[📑](https://docs.google.com/presentation/d/1_jGHyu0aKsQk7jxOmHgscreCrfcqrp9WbQdtWyg087o/export/pdf)		|	
+|	7	|	16	|	21.11.	|	Narrow your audience exercise	|		|		[📝](https://docs.google.com/document/d/1Eu21TCIM0Lx6LiybPG-15ikk0gkRaqbCQNtcl3fAfGQ/edit?usp=sharing)		|	
+|	7	|	17	|	21.11.	|	Storyboard exercise	|		|		[📝](https://docs.google.com/document/d/1WeLzE85YfM-F9-vAIhEbeJHkuHsN3xtovzIokB93BRU/edit?usp=sharing)		|	
+|	7	|	18	|	21.11.	|	Display data in Excel	|	[📊 Data](https://docs.google.com/spreadsheets/d/1DqBYgHGRhbORrw6FOLQPhv8ukm0TgM4C_HzzCXEgckw/edit?usp=sharing)	|		[📑](https://docs.google.com/presentation/d/12R3bTZvhj4drvjdQDjgUqk9a0LdAeUSZtELQIkt2ewM/export/pdf)		|	
+|	8	|	19	|	28.11.	|	Excel exercises	|	[📊 Data](https://docs.google.com/spreadsheets/d/1DqBYgHGRhbORrw6FOLQPhv8ukm0TgM4C_HzzCXEgckw/edit?usp=sharing)	|		[📊](https://docs.google.com/presentation/d//export/pdf)		|	
+|	8	|	20	|	28.11.	|	Excel exercises marketing	|	[📊 Data](https://docs.google.com/spreadsheets/d/1FDUDpOJSeg1n54PYXDVnBPQC66V1GZ9yeEEUT5TVwA8/edit?usp=sharing)	|		[📑](https://docs.google.com/presentation/d/149CFjlTAYFwX6_H2Dsc4SVtZC4tGg2AJl5Am-4fkhUQ/export/pdf)		|	
