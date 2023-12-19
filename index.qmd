@@ -39,7 +39,7 @@ This overview will be updated as the semester progresses.
 |	9	|	20	|	05.12.	|	Excel Übung Marketing Kampagnen	|	[📊 Data](https://docs.google.com/spreadsheets/d/1FDUDpOJSeg1n54PYXDVnBPQC66V1GZ9yeEEUT5TVwA8/edit?usp=sharing)	|		[📑](https://docs.google.com/presentation/d/149CFjlTAYFwX6_H2Dsc4SVtZC4tGg2AJl5Am-4fkhUQ/export/pdf)		|	
 |	10	|	21	|	12.12.	|	Excel Übung E-Commerce	|	[📊 Data](https://docs.google.com/spreadsheets/d/1F4vu0e8mFmN0QZvZXhpFoFutBZNLWbj-Zzakdr0D-6w/edit?usp=sharing)	|		[📑](https://docs.google.com/presentation/d/17LSCPejdBgcJCFYx5QCOVmgFBakTg3twhHoTRHQR2s4/export/pdf)		|	
 |	10	|	22	|	12.12.	|	Excel Übung E-Commerce 2	|	[📊 Data](https://docs.google.com/spreadsheets/d/1yE24B62VUdMMOsJYOIg5N3ZxXXm0h9mdmBftO7_gEV8/edit?usp=sharing)	|		[📑](https://docs.google.com/presentation/d/17cg9Fh2sY3ZFNzsy0NRgVpFhF6myQAF5yBmgyamB6TY/export/pdf)		|	
-|		|	23	|		|	**Study Design*	|		|				|	
+|		|	23	|		|	**Study Design**	|		|				|	
 |	11	|	24	|	19.12.	|	Population and sample	|	[📚](https://openintro-ims.netlify.app/data-design.html#data-design)	|	<!--	[📑](https://docs.google.com/presentation/d/1QPdxp5sFumf9zee-WypsuzSkY7n_hvkhFsdJkRF3-pw/export/pdf)	-->	|	
 |	11	|	25	|	19.12.	|	Sampling methods	|	[📚](https://openintro-ims.netlify.app/data-design.html#sampling-principles-strategies)	|	<!--	[📑](https://docs.google.com/presentation/d/1Rby9NR9F8pu1xHka0Xt1vvbH-oDRfrFC-bwb49IbhA8/export/pdf)	-->	|	
 |	11	|	26	|	19.12.	|	Experiments	|	[📚](https://openintro-ims.netlify.app/data-design.html#experiments)	|	<!--	[📑](https://docs.google.com/presentation/d/1FTNBLYBCId2qsL1sMJf3qgBtaFH3hpbUm8lPck5BaTQ/export/pdf)	-->	|	
