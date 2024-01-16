@@ -16,9 +16,6 @@ This page contains a weekly overview about the topics, slides and materials for 
 This overview will be updated as the semester progresses.
 :::
 
-
-
-
 |	Nr.	|	Date	|	Topic	|	Literature	|		Resources		|	Links	|	
 |	---	|	---	|	---	|	---	|		---		|	---	|	
 |	1	|		|	**Introduction**	|		|				|		|	
@@ -49,7 +46,7 @@ This overview will be updated as the semester progresses.
 |	26	|	19.12.	|	Experiments	|	[📚](https://openintro-ims.netlify.app/data-design.html#experiments)	|		[📑](https://docs.google.com/presentation/d/1FTNBLYBCId2qsL1sMJf3qgBtaFH3hpbUm8lPck5BaTQ/export/pdf)		|	[☑️](https://forms.gle/6Tu92Ez83XANW8Un6)	|	
 |	27	|	19.12.	|	Observational Studies	|	[📚](https://openintro-ims.netlify.app/data-design.html#observational-studies)	|		[📑](https://docs.google.com/presentation/d/1Oz5T_nuO1UFcjbliFmsEQWxG1dKJHDPPNWDeTvukxbE/export/pdf)		|	[☑️](https://forms.gle/V36KmsTjeH2finms9)	|	
 |	28	|		|	**Classification**	|		|				|		|	
-|	29	|	09.01.	|	Classification	|		|	<!--	[📑](https://docs.google.com/presentation/d/1Uait12xIaTM9rdyxSEnzIbR8opENnoOOPefuPocze3s/export/pdf)	-->	|		|	
-|	30	|	09.01.	|	Precision recall and F1 score	|	[📚](https://mlu-explain.github.io/precision-recall/)	|	<!--	[📑](https://docs.google.com/presentation/d/1X3_Ju8egEA8GwH_r76rxHHoC7tvHt8tMWXyT9WKfUko/export/pdf)	-->	|		|	
-|	31	|	09.01.	|	ROC Curve and AUC	|	[📚](https://mlu-explain.github.io/roc-auc/)	|	<!--	[📑](https://docs.google.com/presentation/d/1wapuNTe4wVBUZVmH_X6-OxZlWkQL_YkhHsqZttQUWZk/export/pdf)	-->	|		|	
-|	32	|	09.01.	|	Data splitting	|		|	<!--	[📑](https://docs.google.com/presentation/d/16DAGzUTUzI_prncqDeZx2HhpNnM_xTOL_Na0xTaDeVk/export/pdf)	-->	|		|	
+|	29	|	09.01.	|	Classification	|		|		[📑](https://docs.google.com/presentation/d/1Uait12xIaTM9rdyxSEnzIbR8opENnoOOPefuPocze3s/export/pdf)		|		|	
+|	30	|	09.01.	|	Precision recall and F1 score	|	[📚](https://mlu-explain.github.io/precision-recall/)	|		[📑](https://docs.google.com/presentation/d/1X3_Ju8egEA8GwH_r76rxHHoC7tvHt8tMWXyT9WKfUko/export/pdf)		|		|	
+|	31	|	16.01.	|	ROC Curve and AUC	|	[📚](https://mlu-explain.github.io/roc-auc/)	|		[📑](https://docs.google.com/presentation/d/1wapuNTe4wVBUZVmH_X6-OxZlWkQL_YkhHsqZttQUWZk/export/pdf)	-->	|		|	
+|	32	|	23.01.	|	Data splitting	|		|	<!--	[📑](https://docs.google.com/presentation/d/16DAGzUTUzI_prncqDeZx2HhpNnM_xTOL_Na0xTaDeVk/export/pdf)	-->	|		|	
