@@ -16,6 +16,7 @@ This page contains a weekly overview about the topics, slides and materials for 
 This overview will be updated as the semester progresses.
 :::
 
+
 |	Nr.	|	Date	|	Topic	|	Literature	|		Resources		|	Links	|	
 |	---	|	---	|	---	|	---	|		---		|	---	|	
 |	1	|		|	**Introduction**	|		|				|		|	
@@ -48,9 +49,9 @@ This overview will be updated as the semester progresses.
 |	28	|		|	**Classification**	|		|				|		|	
 |	29	|	09.01.	|	Classification	|		|		[📑](https://docs.google.com/presentation/d/1Uait12xIaTM9rdyxSEnzIbR8opENnoOOPefuPocze3s/export/pdf)		|		|	
 |	30	|	09.01.	|	Precision recall and F1 score	|	[📚](https://mlu-explain.github.io/precision-recall/)	|		[📑](https://docs.google.com/presentation/d/1X3_Ju8egEA8GwH_r76rxHHoC7tvHt8tMWXyT9WKfUko/export/pdf)		|		|	
-|	31	|	09.01.	|	ROC Curve and AUC	|	[📚](https://mlu-explain.github.io/roc-auc/)	|		[📑](https://docs.google.com/presentation/d/1wapuNTe4wVBUZVmH_X6-OxZlWkQL_YkhHsqZttQUWZk/export/pdf)	-->	|		|	
-|	32	|	16.01.	|	Data splitting	|		|	<!--	[📑](https://docs.google.com/presentation/d/16DAGzUTUzI_prncqDeZx2HhpNnM_xTOL_Na0xTaDeVk/export/pdf)	-->	|		|	
-|	33	|		|	**Inference**	|		|	<!--		-->	|		|	
-|	34	|	16.01.	|	Hypothesis testing	|	[📚](https://openintro-ims.netlify.app/foundations-randomization.html)	|	<!--	[📑](https://docs.google.com/presentation/d/1dhTaUlY3rjhBhUcTSL3Pf708DT3jCDQtrnlflACI1a8/export/pdf)	-->	|		|	
-|	35	|	16.01.	|	P-value and significance	|	[📚](https://openintro-ims.netlify.app/foundations-randomization.html#p-value-and-statistical-significance)	|	<!--	[📑](https://docs.google.com/presentation/d/1WObu30GH9KkutJ11tsAHnFWSNga3DfQyoIJoZM8S2TI/export/pdf)	-->	|		|	
-|	36	|	16.01.	|	Decision errors	|	[📚](https://openintro-ims.netlify.app/decerr.html)	|	<!--	[📑](https://docs.google.com/presentation/d/1ei-Tt6pqpPl_5oiMDMA9Coavf3ksCauxsJx2oK4U6L0/export/pdf)	-->	|		|	
+|	31	|	09.01.	|	ROC Curve and AUC	|	[📚](https://mlu-explain.github.io/roc-auc/)	|		[📑](https://docs.google.com/presentation/d/1wapuNTe4wVBUZVmH_X6-OxZlWkQL_YkhHsqZttQUWZk/export/pdf)		|		|	
+|	32	|	16.01.	|	Data splitting	|		|		[📑](https://docs.google.com/presentation/d/16DAGzUTUzI_prncqDeZx2HhpNnM_xTOL_Na0xTaDeVk/export/pdf)		|		|	
+|	33	|		|	**Inference**	|		|				|		|	
+|	34	|	16.01.	|	Hypothesis testing	|	[📚](https://openintro-ims.netlify.app/foundations-randomization.html)	|		[📑](https://docs.google.com/presentation/d/1dhTaUlY3rjhBhUcTSL3Pf708DT3jCDQtrnlflACI1a8/export/pdf)		|		|	
+|	35	|	16.01.	|	P-value and significance	|	[📚](https://openintro-ims.netlify.app/foundations-randomization.html#p-value-and-statistical-significance)	|		[📑](https://docs.google.com/presentation/d/1WObu30GH9KkutJ11tsAHnFWSNga3DfQyoIJoZM8S2TI/export/pdf)		|		|	
+|	36	|	16.01.	|	Decision errors	|	[📚](https://openintro-ims.netlify.app/decerr.html)	|		[📑](https://docs.google.com/presentation/d/1ei-Tt6pqpPl_5oiMDMA9Coavf3ksCauxsJx2oK4U6L0/export/pdf)		|		|	
